@@ -1,4 +1,7 @@
 # PUBG_HOST_MAKER
+
+TOOL VERSION 2.O
+
 This tool for making pubg host file by YT_GAMER_X
 
 installing CAMMAND 
