@@ -1,0 +1,27 @@
+##############
+import os
+import sys
+##############
+os.system ("clear")
+print ("")
+print ("\033[1;92m╔═══╦═══╦════╗")
+print ("\033[1;92m║╔═╗║╔══╣╔╗╔╗║")
+print ("\033[1;92m║╚══╣╚══╬╝║║╚╝")
+print ("\033[1;92m╚══╗║╔══╝─║║")
+print ("\033[1;92m║╚═╝║╚══╗─║║")
+print ("\033[1;92m╚═══╩═══╝─╚╝")
+print ("\033[1;93m╔╗─╔╦═══╗")
+print ("\033[1;93m║║─║║╔═╗║")
+print ("\033[1;93m║║─║║╚═╝║")
+print ("\033[1;93m║║─║║╔══╝")
+print ("\033[1;93m║╚═╝║║")
+print ("\033[1;93m╚═══╩╝")
+print ("")
+print ("")
+print ("\033[1;91m❰\033[1;96m❰\033[1;93m❰\033[1;92m SETUP PDLIST\033[1;93m❱\033[1;96m❱\033[1;91m❱")
+print ("")
+print ("\033[1;91m❰\033[1;96m❰\033[1;93m❰ \033[1;96mENTER \033[1;91mTO \033[1;96mCONTINUE \033[1;93m❱\033[1;96m❱\033[1;91m❱")
+os.system ("read input")
+os.system ("pip install -r requirements.txt")
+os.system ("python setup.py install")
+print ("\033[1;91m DOWN............")
