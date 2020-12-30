@@ -29,25 +29,25 @@ installing CAMMAND
 
 13 => ls
 
-14 =>python SETUP_PDLIST.py
+14 => python SETUP_PDLIST.py
 
-15 =>cd ..
+15 => cd ..
 
-16 =>ls
+16 => ls
 
-17 =>cd sublist3r
+17 => cd sublist3r
 
-18 =>ls
+18 => ls
 
-19 =>python sublist3r
+19 => python SETUP_SUBLIST3R.py
 
-20 =>cd ..
+20 => cd ..
 
-21 =>ls
+21 => ls
 
-22 =>cd ..
+22 => cd ..
 
-23 =>python HOST_MAKER.py
+23 => python HOST_MAKER.py
 
 
 
