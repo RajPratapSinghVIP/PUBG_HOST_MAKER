@@ -29,9 +29,32 @@ installing CAMMAND
 
 13 => ls
 
-14 =>
-15 =>
-16 =>
-17 =>
-18 =>
-20 =>
+14 =>python SETUP_PDLIST.py
+
+15 =>cd ..
+
+16 =>ls
+
+17 =>cd sublist3r
+
+18 =>ls
+
+19 =>python sublist3r
+
+20 =>cd ..
+
+21 =>ls
+
+22 =>cd ..
+
+23 =>python HOST_MAKER.py
+
+
+
+If you need host code type 👇
+
+cat HOST_CODE.TXT
+
+💖💖💖💖💖💖💖💖💖💖
+
+HOW TO USE VEDIO LINK => "COMEINGSOON"
