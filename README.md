@@ -58,3 +58,8 @@ cat HOST_CODE.TXT
 💖💖💖💖💖💖💖💖💖💖
 
 HOW TO USE VEDIO LINK => "COMEINGSOON"
+
+Follow me on
+YOUTUBE => https://youtube.com/channel/UCtKNEQ-tZiyJn73saSnNmlw
+
+TELEGRAM_GROUP => @YT_GAMER_X
