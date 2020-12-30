@@ -242,7 +242,7 @@ os.system("rm -rf /storage/emulated/0/YT_GAMER_X/sublist3r/adjust.TXT")
 os.system("touch /storage/emulated/0/YT_GAMER_X/sublist3r/adjust.TXT")
 print ("\033[1;91m❰\033[1;96m❰\033[1;93m❰\033[1;92m adjust.com \033[1;93m❱\033[1;96m❱\033[1;91m❱")
 print ("\033[1;97m")
-os.system("cd /data/data/com.termux/files/home/PUBG_HOST_MAKER/module/sublist3r && python2 sublist3r.py -d adjust.com -o /storage/emulated/0/YT_GAMER_X/sublist3r/adjust.TXT")
+os.system("cd /data/data/com.termux/files/home/PUBG_HOST_MAKER/module/sublist3r && python sublist3r.py -d adjust.com -o /storage/emulated/0/YT_GAMER_X/sublist3r/adjust.TXT")
 os.system("clear")
 #########################
 #########################
@@ -250,7 +250,7 @@ os.system("rm -rf /storage/emulated/0/YT_GAMER_X/sublist3r/amazonaws.TXT")
 os.system("touch /storage/emulated/0/YT_GAMER_X/sublist3r/amazonaws.TXT")
 print ("\033[1;91m❰\033[1;96m❰\033[1;93m❰\033[1;92m amazonaws.com \033[1;93m❱\033[1;96m❱\033[1;91m❱")
 print ("\033[1;97m")
-os.system("cd /data/data/com.termux/files/home/PUBG_HOST_MAKER/module/sublist3r && python2 sublist3r.py -d amazonaws.com -o /storage/emulated/0/YT_GAMER_X/sublist3r/amazonaws.TXT")
+os.system("cd /data/data/com.termux/files/home/PUBG_HOST_MAKER/module/sublist3r && python sublist3r.py -d amazonaws.com -o /storage/emulated/0/YT_GAMER_X/sublist3r/amazonaws.TXT")
 os.system("clear")
 #########################
 #########################
@@ -258,7 +258,7 @@ os.system("rm -rf /storage/emulated/0/YT_GAMER_X/sublist3r/amsoveasea.TXT")
 os.system("touch /storage/emulated/0/YT_GAMER_X/sublist3r/amsoveasea.TXT")
 print ("\033[1;91m❰\033[1;96m❰\033[1;93m❰\033[1;92m amsoveasea.com \033[1;93m❱\033[1;96m❱\033[1;91m❱")
 print ("\033[1;97m")
-os.system("cd /data/data/com.termux/files/home/PUBG_HOST_MAKER/module/sublist3r && python2 sublist3r.py -d amsoveasea.com -o /storage/emulated/0/YT_GAMER_X/sublist3r/amsoveasea.TXT")
+os.system("cd /data/data/com.termux/files/home/PUBG_HOST_MAKER/module/sublist3r && python sublist3r.py -d amsoveasea.com -o /storage/emulated/0/YT_GAMER_X/sublist3r/amsoveasea.TXT")
 os.system("clear")
 #########################
 #########################
@@ -266,7 +266,7 @@ os.system("rm -rf /storage/emulated/0/YT_GAMER_X/sublist3r/cnzz.TXT")
 os.system("touch /storage/emulated/0/YT_GAMER_X/sublist3r/cnzz.TXT")
 print ("\033[1;91m❰\033[1;96m❰\033[1;93m❰\033[1;92m cnzz.com \033[1;93m❱\033[1;96m❱\033[1;91m❱")
 print ("\033[1;97m")
-os.system("cd /data/data/com.termux/files/home/PUBG_HOST_MAKER/module/sublist3r && python2 sublist3r.py -d cnzz.com -o /storage/emulated/0/YT_GAMER_X/sublist3r/cnzz.TXT")
+os.system("cd /data/data/com.termux/files/home/PUBG_HOST_MAKER/module/sublist3r && python sublist3r.py -d cnzz.com -o /storage/emulated/0/YT_GAMER_X/sublist3r/cnzz.TXT")
 os.system("clear")
 #########################
 #########################
@@ -274,7 +274,7 @@ os.system("rm -rf /storage/emulated/0/YT_GAMER_X/sublist3r/Doubleclick.TXT")
 os.system("touch /storage/emulated/0/YT_GAMER_X/sublist3r/Doubleclick.TXT")
 print ("\033[1;91m❰\033[1;96m❰\033[1;93m❰\033[1;92m Doubleclick.net \033[1;93m❱\033[1;96m❱\033[1;91m❱")
 print ("\033[1;97m")
-os.system("cd /data/data/com.termux/files/home/PUBG_HOST_MAKER/module/sublist3r && python2 sublist3r.py -d Doubleclick.net -o /storage/emulated/0/YT_GAMER_X/sublist3r/Doubleclick.TXT")
+os.system("cd /data/data/com.termux/files/home/PUBG_HOST_MAKER/module/sublist3r && python sublist3r.py -d Doubleclick.net -o /storage/emulated/0/YT_GAMER_X/sublist3r/Doubleclick.TXT")
 os.system("clear")
 #########################
 #########################
@@ -282,7 +282,7 @@ os.system("rm -rf /storage/emulated/0/YT_GAMER_X/sublist3r/dns.TXT")
 os.system("touch /storage/emulated/0/YT_GAMER_X/sublist3r/dns.TXT")
 print ("\033[1;91m❰\033[1;96m❰\033[1;93m❰\033[1;92m dns.com \033[1;93m❱\033[1;96m❱\033[1;91m❱")
 print ("\033[1;97m")
-os.system("cd /data/data/com.termux/files/home/PUBG_HOST_MAKER/module/sublist3r && python2 sublist3r.py -d dns.com -o /storage/emulated/0/YT_GAMER_X/sublist3r/dns.TXT")
+os.system("cd /data/data/com.termux/files/home/PUBG_HOST_MAKER/module/sublist3r && python sublist3r.py -d dns.com -o /storage/emulated/0/YT_GAMER_X/sublist3r/dns.TXT")
 os.system("clear")
 #########################
 #########################
@@ -290,7 +290,7 @@ os.system("rm -rf /storage/emulated/0/YT_GAMER_X/sublist3r/epicgames.TXT")
 os.system("touch /storage/emulated/0/YT_GAMER_X/sublist3r/epicgames.TXT")
 print ("\033[1;91m❰\033[1;96m❰\033[1;93m❰\033[1;92m epicgames.com \033[1;93m❱\033[1;96m❱\033[1;91m❱")
 print ("\033[1;97m")
-os.system("cd /data/data/com.termux/files/home/PUBG_HOST_MAKER/module/sublist3r && python2 sublist3r.py -d epicgames.com -o /storage/emulated/0/YT_GAMER_X/sublist3r/epicgames.TXT")
+os.system("cd /data/data/com.termux/files/home/PUBG_HOST_MAKER/module/sublist3r && python sublist3r.py -d epicgames.com -o /storage/emulated/0/YT_GAMER_X/sublist3r/epicgames.TXT")
 os.system("clear")
 #########################
 #########################
@@ -298,7 +298,7 @@ os.system("rm -rf /storage/emulated/0/YT_GAMER_X/sublist3r/facebook.TXT")
 os.system("touch /storage/emulated/0/YT_GAMER_X/sublist3r/facebook.TXT")
 print ("\033[1;91m❰\033[1;96m❰\033[1;93m❰\033[1;92m facebook.com \033[1;93m❱\033[1;96m❱\033[1;91m❱")
 print ("\033[1;97m")
-os.system("cd /data/data/com.termux/files/home/PUBG_HOST_MAKER/module/sublist3r && python2 sublist3r.py -d facebook.com -o /storage/emulated/0/YT_GAMER_X/sublist3r/facebook.TXT")
+os.system("cd /data/data/com.termux/files/home/PUBG_HOST_MAKER/module/sublist3r && python sublist3r.py -d facebook.com -o /storage/emulated/0/YT_GAMER_X/sublist3r/facebook.TXT")
 os.system("clear")
 #########################
 #########################
@@ -306,7 +306,7 @@ os.system("rm -rf /storage/emulated/0/YT_GAMER_X/sublist3r/googleapis.TXT")
 os.system("touch /storage/emulated/0/YT_GAMER_X/sublist3r/googleapis.TXT")
 print ("\033[1;91m❰\033[1;96m❰\033[1;93m❰\033[1;92m googleapis.com \033[1;93m❱\033[1;96m❱\033[1;91m❱")
 print ("\033[1;97m")
-os.system("cd /data/data/com.termux/files/home/PUBG_HOST_MAKER/module/sublist3r && python2 sublist3r.py -d googleapis.com -o /storage/emulated/0/YT_GAMER_X/sublist3r/googleapis.TXT")
+os.system("cd /data/data/com.termux/files/home/PUBG_HOST_MAKER/module/sublist3r && python sublist3r.py -d googleapis.com -o /storage/emulated/0/YT_GAMER_X/sublist3r/googleapis.TXT")
 os.system("clear")
 #########################
 #########################
@@ -314,7 +314,7 @@ os.system("rm -rf /storage/emulated/0/YT_GAMER_X/sublist3r/gstatic.TXT")
 os.system("touch /storage/emulated/0/YT_GAMER_X/sublist3r/gstatic.TXT")
 print ("\033[1;91m❰\033[1;96m❰\033[1;93m❰\033[1;92m gstatic.com \033[1;93m❱\033[1;96m❱\033[1;91m❱")
 print ("\033[1;97m")
-os.system("cd /data/data/com.termux/files/home/PUBG_HOST_MAKER/module/sublist3r && python2 sublist3r.py -d gstatic.com -o /storage/emulated/0/YT_GAMER_X/sublist3r/gstatic.TXT")
+os.system("cd /data/data/com.termux/files/home/PUBG_HOST_MAKER/module/sublist3r && python sublist3r.py -d gstatic.com -o /storage/emulated/0/YT_GAMER_X/sublist3r/gstatic.TXT")
 os.system("clear")
 #########################
 #########################
@@ -322,7 +322,7 @@ os.system("rm -rf /storage/emulated/0/YT_GAMER_X/sublist3r/helpshift.TXT")
 os.system("touch /storage/emulated/0/YT_GAMER_X/sublist3r/helpshift.TXT")
 print ("\033[1;91m❰\033[1;96m❰\033[1;93m❰\033[1;92m helpshift.com \033[1;93m❱\033[1;96m❱\033[1;91m❱")
 print ("\033[1;97m")
-os.system("cd /data/data/com.termux/files/home/PUBG_HOST_MAKER/module/sublist3r && python2 sublist3r.py -d helpshift.com -o /storage/emulated/0/YT_GAMER_X/sublist3r/helpshift.TXT")
+os.system("cd /data/data/com.termux/files/home/PUBG_HOST_MAKER/module/sublist3r && python sublist3r.py -d helpshift.com -o /storage/emulated/0/YT_GAMER_X/sublist3r/helpshift.TXT")
 os.system("clear")
 #########################
 #########################
@@ -330,7 +330,7 @@ os.system("rm -rf /storage/emulated/0/YT_GAMER_X/sublist3r/igamecj.TXT")
 os.system("touch /storage/emulated/0/YT_GAMER_X/sublist3r/igamecj.TXT")
 print ("\033[1;91m❰\033[1;96m❰\033[1;93m❰\033[1;92m igamecj.com \033[1;93m❱\033[1;96m❱\033[1;91m❱")
 print ("\033[1;97m")
-os.system("cd /data/data/com.termux/files/home/PUBG_HOST_MAKER/module/sublist3r && python2 sublist3r.py -d igamecj.com -o /storage/emulated/0/YT_GAMER_X/sublist3r/igamecj.TXT")
+os.system("cd /data/data/com.termux/files/home/PUBG_HOST_MAKER/module/sublist3r && python sublist3r.py -d igamecj.com -o /storage/emulated/0/YT_GAMER_X/sublist3r/igamecj.TXT")
 os.system("clear")
 #########################
 #########################
@@ -338,7 +338,7 @@ os.system("rm -rf /storage/emulated/0/YT_GAMER_X/sublist3r/pubgmobile.TXT")
 os.system("touch /storage/emulated/0/YT_GAMER_X/sublist3r/pubgmobile.TXT")
 print ("\033[1;91m❰\033[1;96m❰\033[1;93m❰\033[1;92m pubgmobile.com \033[1;93m❱\033[1;96m❱\033[1;91m❱")
 print ("\033[1;97m")
-os.system("cd /data/data/com.termux/files/home/PUBG_HOST_MAKER/module/sublist3r && python2 sublist3r.py -d pubgmobile.com -o /storage/emulated/0/YT_GAMER_X/sublist3r/pubgmobile.TXT")
+os.system("cd /data/data/com.termux/files/home/PUBG_HOST_MAKER/module/sublist3r && python sublist3r.py -d pubgmobile.com -o /storage/emulated/0/YT_GAMER_X/sublist3r/pubgmobile.TXT")
 os.system("clear")
 #########################
 #########################
@@ -346,7 +346,7 @@ os.system("rm -rf /storage/emulated/0/YT_GAMER_X/sublist3r/proximabeta.TXT")
 os.system("touch /storage/emulated/0/YT_GAMER_X/sublist3r/proximabeta.TXT")
 print ("\033[1;91m❰\033[1;96m❰\033[1;93m❰\033[1;92m proximabeta.com \033[1;93m❱\033[1;96m❱\033[1;91m❱")
 print ("\033[1;97m")
-os.system("cd /data/data/com.termux/files/home/PUBG_HOST_MAKER/module/sublist3r && python2 sublist3r.py -d proximabeta.com -o /storage/emulated/0/YT_GAMER_X/sublist3r/proximabeta.TXT")
+os.system("cd /data/data/com.termux/files/home/PUBG_HOST_MAKER/module/sublist3r && python sublist3r.py -d proximabeta.com -o /storage/emulated/0/YT_GAMER_X/sublist3r/proximabeta.TXT")
 os.system("clear")
 #########################
 #########################
@@ -354,7 +354,7 @@ os.system("rm -rf /storage/emulated/0/YT_GAMER_X/sublist3r/qq.TXT")
 os.system("touch /storage/emulated/0/YT_GAMER_X/sublist3r/qq.TXT")
 print ("\033[1;91m❰\033[1;96m❰\033[1;93m❰\033[1;92m qq.com \033[1;93m❱\033[1;96m❱\033[1;91m❱")
 print ("\033[1;97m")
-os.system("cd /data/data/com.termux/files/home/PUBG_HOST_MAKER/module/sublist3r && python2 sublist3r.py -d qq.com -o /storage/emulated/0/YT_GAMER_X/sublist3r/qq.TXT")
+os.system("cd /data/data/com.termux/files/home/PUBG_HOST_MAKER/module/sublist3r && python sublist3r.py -d qq.com -o /storage/emulated/0/YT_GAMER_X/sublist3r/qq.TXT")
 os.system("clear")
 #########################
 #########################
@@ -362,7 +362,7 @@ os.system("rm -rf /storage/emulated/0/YT_GAMER_X/sublist3r/qqgames.TXT")
 os.system("touch /storage/emulated/0/YT_GAMER_X/sublist3r/qqgames.TXT")
 print ("\033[1;91m❰\033[1;96m❰\033[1;93m❰\033[1;92m qqgames.com \033[1;93m❱\033[1;96m❱\033[1;91m❱")
 print ("\033[1;97m")
-os.system("cd /data/data/com.termux/files/home/PUBG_HOST_MAKER/module/sublist3r && python2 sublist3r.py -d qqgames.com -o /storage/emulated/0/YT_GAMER_X/sublist3r/qqgames.TXT")
+os.system("cd /data/data/com.termux/files/home/PUBG_HOST_MAKER/module/sublist3r && python sublist3r.py -d qqgames.com -o /storage/emulated/0/YT_GAMER_X/sublist3r/qqgames.TXT")
 os.system("clear")
 #########################
 #########################
@@ -370,7 +370,7 @@ os.system("rm -rf /storage/emulated/0/YT_GAMER_X/sublist3r/qcloud.TXT")
 os.system("touch /storage/emulated/0/YT_GAMER_X/sublist3r/qcloud.TXT")
 print ("\033[1;91m❰\033[1;96m❰\033[1;93m❰\033[1;92m qcloud.com \033[1;93m❱\033[1;96m❱\033[1;91m❱")
 print ("\033[1;97m")
-os.system("cd /data/data/com.termux/files/home/PUBG_HOST_MAKER/module/sublist3r && python2 sublist3r.py -d qcloud.com -o /storage/emulated/0/YT_GAMER_X/sublist3r/qcloud.TXT")
+os.system("cd /data/data/com.termux/files/home/PUBG_HOST_MAKER/module/sublist3r && python sublist3r.py -d qcloud.com -o /storage/emulated/0/YT_GAMER_X/sublist3r/qcloud.TXT")
 os.system("clear")
 #########################
 #########################
@@ -378,7 +378,7 @@ os.system("rm -rf /storage/emulated/0/YT_GAMER_X/sublist3r/security.TXT")
 os.system("touch /storage/emulated/0/YT_GAMER_X/sublist3r/security.TXT")
 print ("\033[1;91m❰\033[1;96m❰\033[1;93m❰\033[1;92m security.com \033[1;93m❱\033[1;96m❱\033[1;91m❱")
 print ("\033[1;97m")
-os.system("cd /data/data/com.termux/files/home/PUBG_HOST_MAKER/module/sublist3r && python2 sublist3r.py -d security.com -o /storage/emulated/0/YT_GAMER_X/sublist3r/security.TXT")
+os.system("cd /data/data/com.termux/files/home/PUBG_HOST_MAKER/module/sublist3r && python sublist3r.py -d security.com -o /storage/emulated/0/YT_GAMER_X/sublist3r/security.TXT")
 os.system("clear")
 #########################
 #########################
@@ -386,7 +386,7 @@ os.system("rm -rf /storage/emulated/0/YT_GAMER_X/sublist3r/tdatamaster.TXT")
 os.system("touch /storage/emulated/0/YT_GAMER_X/sublist3r/tdatamaster.TXT")
 print ("\033[1;91m❰\033[1;96m❰\033[1;93m❰\033[1;92m tdatamaster.com \033[1;93m❱\033[1;96m❱\033[1;91m❱")
 print ("\033[1;97m")
-os.system("cd /data/data/com.termux/files/home/PUBG_HOST_MAKER/module/sublist3r && python2 sublist3r.py -d tdatamaster.com -o /storage/emulated/0/YT_GAMER_X/sublist3r/tdatamaster.TXT")
+os.system("cd /data/data/com.termux/files/home/PUBG_HOST_MAKER/module/sublist3r && python sublist3r.py -d tdatamaster.com -o /storage/emulated/0/YT_GAMER_X/sublist3r/tdatamaster.TXT")
 os.system("clear")
 #########################
 #########################
@@ -394,7 +394,7 @@ os.system("rm -rf /storage/emulated/0/YT_GAMER_X/sublist3r/tencent.TXT")
 os.system("touch /storage/emulated/0/YT_GAMER_X/sublist3r/tencent.TXT")
 print ("\033[1;91m❰\033[1;96m❰\033[1;93m❰\033[1;92m tencent.com \033[1;93m❱\033[1;96m❱\033[1;91m❱")
 print ("\033[1;97m")
-os.system("cd /data/data/com.termux/files/home/PUBG_HOST_MAKER/module/sublist3r && python2 sublist3r.py -d tencent.com -o /storage/emulated/0/YT_GAMER_X/sublist3r/tencent.TXT")
+os.system("cd /data/data/com.termux/files/home/PUBG_HOST_MAKER/module/sublist3r && python sublist3r.py -d tencent.com -o /storage/emulated/0/YT_GAMER_X/sublist3r/tencent.TXT")
 os.system("clear")
 #########################
 #########################
@@ -402,6 +402,6 @@ os.system("rm -rf /storage/emulated/0/YT_GAMER_X/sublist3r/umeng.TXT")
 os.system("touch /storage/emulated/0/YT_GAMER_X/sublist3r/umeng.TXT")
 print ("\033[1;91m❰\033[1;96m❰\033[1;93m❰\033[1;92m umeng.com \033[1;93m❱\033[1;96m❱\033[1;91m❱")
 print ("\033[1;97m")
-os.system("cd /data/data/com.termux/files/home/PUBG_HOST_MAKER/module/sublist3r && python2 sublist3r.py -d umeng.com -o /storage/emulated/0/YT_GAMER_X/sublist3r/umeng.TXT")
+os.system("cd /data/data/com.termux/files/home/PUBG_HOST_MAKER/module/sublist3r && python sublist3r.py -d umeng.com -o /storage/emulated/0/YT_GAMER_X/sublist3r/umeng.TXT")
 print ("\033[1;91m❰\033[1;96m❰\033[1;93m❰\033[1;92m BY..... BY...... \033[1;93m❱\033[1;96m❱\033[1;91m❱")
 os.system ("exit")
