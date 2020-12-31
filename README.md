@@ -50,7 +50,10 @@ installing CAMMAND
 
 22 => cd ..
 
-23 => python HOST_MAKER.py
+23 => mv HOST_MAKER.apk /storage/emulated/0/
+
+24 => python HOST_MAKER.py
+
 
 
 
