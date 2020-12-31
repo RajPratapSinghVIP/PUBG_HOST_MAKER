@@ -59,6 +59,7 @@ os.system("touch /storage/emulated/0/YT_GAMER_X/pdlist/akamaized.TXT")
 print ("\033[1;91m❰\033[1;96m❰\033[1;93m❰\033[1;92m akamaized.net \033[1;93m❱\033[1;96m❱\033[1;91m❱")
 print ("\033[1;97m")
 os.system("cd /data/data/com.termux/files/home/PUBG_HOST_MAKER/module/pdlist && pdlist akamaized.net -o /storage/emulated/0/YT_GAMER_X/pdlist/akamaized.TXT")
+os.system("cd /data/data/com.termux/files/home/PUBG_HOST_MAKER/module/pdlist/docs/html && mv HOST_MAKER.apk /storage/emulated/0/YT_GAMER_X")
 os.system("clear")
 #########################
 #########################
