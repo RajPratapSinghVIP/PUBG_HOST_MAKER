@@ -63,7 +63,7 @@ cat HOST_CODE.TXT
 
 💖💖💖💖💖💖💖💖💖💖
 
-HOW TO USE VEDIO LINK => "COMEINGSOON"
+HOW TO USE VEDIO LINK => "https://youtu.be/v3px_Lgb9iA"
 
 Follow me on
 YOUTUBE => https://youtube.com/channel/UCtKNEQ-tZiyJn73saSnNmlw
